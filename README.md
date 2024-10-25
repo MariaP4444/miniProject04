@@ -22,3 +22,5 @@ For the drum machine patterns, we assigned three sliders to control the values f
 - Voice oohs
 - Atmosphere
 - Square
+
+[YouTube video](https://url-del-enlace.com)
