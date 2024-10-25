@@ -6,10 +6,17 @@ Maria Paula Castillo Erazo
 Francisco Suarez
 
 ### DJ system
-For this project we built a basic DJ sytem using OSC Controller and Pure Data. First, we decided the function for each botton for the OSC Controller, the system consists on two principal functions:
+For this project, we built a basic DJ system using OSC Controller and Pure Data. First, we assigned functions to each button on the OSC Controller. The system consists of two main features:
 
 - Drum machine patterns
 - Piano
+For the drum machine patterns, we assigned three sliders to control the values for the kick, snare, hi-hat, and BPM. Eight buttons were designated for eight different drum machine patterns. Meanwhile, fourteen buttons were allocated for two piano scales. These piano scales can be changed using toggles, providing a total of 8 available scales. Additionally, we included 9 filters to simulate the following instruments and sounds:
 
-For the drum machine patterns, we assigned three sliders for controlling the values of kick, snare, hithat and BPM. Eight buttons were assigned for eight different patterns for the drum machine. On the other hand, fourteen buttons were assigned for two piano ladders. Piano ladders can be changed through toggles, giving a total range of 8 available ladders. We added 9 filters to 
- 
+- Timpani
+- Tubular bells
+- Crystal
+- Celesta
+- Electric bass
+- Voice oohs
+- Atmosphere
+- Square
