@@ -23,4 +23,4 @@ For the drum machine patterns, we assigned three sliders to control the values f
 - Atmosphere
 - Square
 
-[YouTube video](https://url-del-enlace.com)
+[YouTube video](https://youtu.be/brpr343OF0w?si=XmHrrKq7_-o8AW0G)
