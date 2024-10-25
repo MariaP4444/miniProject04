@@ -1,6 +1,7 @@
 ## miniProject04
 #### Students:
 Valeria Fernanda Gustín Martínez
+
 Maria Paula Castillo Erazo
 #### Teacher:
 Francisco Suarez
